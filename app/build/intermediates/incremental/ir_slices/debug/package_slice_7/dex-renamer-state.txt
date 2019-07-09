@@ -1,0 +1,4 @@
+#Sun Jul 07 20:36:11 PDT 2019
+base.0=/Users/zhensuy/Downloads/Hello-Uber/Android/app/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex

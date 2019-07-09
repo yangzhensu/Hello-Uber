@@ -1,0 +1,210 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/fcd5d1046aa7f5946154395f553922de/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/9dce5e43a6cdd8b3ed889b057af02d37/AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/edee74f2b2f1fc9b7207cf463d621428/AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/edb8661904d7a8cd0e8066898bf1732d/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/4f355218f8e71cd77da72a8fb9facfad/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0-alpha02] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/da156bf5cd42bf843c0d12d1414acc33/AndroidManifest.xml:17:1-27:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/3a42a3233fc8d402040763a98d260702/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/81d478b25afbfb61cf28ba51aa2dc62b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/3ab533e78b73d7395420c6ec7a816a71/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/f8d81443de02e8afd12f6021fe6b387c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/4da4e1bf27931fd39e3b3321fe34ff76/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/7f9bd867cf11731f12fcc65219350c37/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/ef86ebff862fec3e695c0213a140cb28/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.2.0-alpha01] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/2feafc1f6ff89ed4b7b4dfcc0cd5be9b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha02] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/19e11a56b7bf4e43443b3f95e9e2db67/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0-alpha02] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/346d45d70ec45b2fdbe00b621064bcf2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/5e4594fa4af0f16b1eef7a7b50121c9f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/cc4d43b160d91ead9d2fa7fb48c6fca0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/d28b5cb418edfea3202a7ba9e42dca49/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/01bfd598866bfe523f4eab30c184ad6e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/4bbf4ffa644ee74545d38ed0bd9a57ea/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/27f961bc0a2b92e5f3524d5ca32e29fd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/ccddb17fb3dd9c9235ac9f82a435cc14/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/547d8c71b467da6e0608ed65798b82b0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/750a1e18ab929dfdd0dcdfa2ad2488f0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0-alpha01] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/7e3d8d35155d895fa363295df29cabb5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/368f5663db1394950433ec889b13dabb/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-alpha02] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/fa2bec76d02de04f8bfa7e2671ef9728/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0-alpha02] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/770691c5a9c85498cb4eaf3bb48b402c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-alpha02] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/112fb3010bfd6b12fc373efb0464ce2a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0-rc01] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/668ed5d02954dbde0b324653e2659b69/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/a14fa091498f150c43f5d88e2319705e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha02] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/a11888d1745e2417f272a1a2430606f6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/913254817abf98c18e4fda6a22956e50/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/c61cc3779214072191016da658bae793/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/a2fb7f440a92438ab03443047ad6244c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/dd5ca30d915a0acdda5efb027d8e2271/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/e82056ed5ab8e8731d6d847c4c756e65/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/4cc3e6a11edfdbc276d203159b4699ba/AndroidManifest.xml:17:1-27:12
+INJECTED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml:3:11-45
+		INJECTED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml:5:5-18:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/edb8661904d7a8cd0e8066898bf1732d/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/edb8661904d7a8cd0e8066898bf1732d/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0-alpha02] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/da156bf5cd42bf843c0d12d1414acc33/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0-alpha02] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/da156bf5cd42bf843c0d12d1414acc33/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/3a42a3233fc8d402040763a98d260702/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/3a42a3233fc8d402040763a98d260702/AndroidManifest.xml:10:5-20
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha02] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/19e11a56b7bf4e43443b3f95e9e2db67/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha02] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/19e11a56b7bf4e43443b3f95e9e2db67/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/368f5663db1394950433ec889b13dabb/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/368f5663db1394950433ec889b13dabb/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/913254817abf98c18e4fda6a22956e50/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/913254817abf98c18e4fda6a22956e50/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/4cc3e6a11edfdbc276d203159b4699ba/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/4cc3e6a11edfdbc276d203159b4699ba/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-rc01] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/368f5663db1394950433ec889b13dabb/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml:10:9-40
+activity#com.interview.testimport.MainActivity
+ADDED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml:11:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml:13:17-68
+	android:name
+		ADDED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml:15:17-76
+	android:name
+		ADDED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/fcd5d1046aa7f5946154395f553922de/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/fcd5d1046aa7f5946154395f553922de/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/9dce5e43a6cdd8b3ed889b057af02d37/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/9dce5e43a6cdd8b3ed889b057af02d37/AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/edee74f2b2f1fc9b7207cf463d621428/AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/edee74f2b2f1fc9b7207cf463d621428/AndroidManifest.xml:18:5-43
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/edb8661904d7a8cd0e8066898bf1732d/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/edb8661904d7a8cd0e8066898bf1732d/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/4f355218f8e71cd77da72a8fb9facfad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/4f355218f8e71cd77da72a8fb9facfad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0-alpha02] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/da156bf5cd42bf843c0d12d1414acc33/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0-alpha02] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/da156bf5cd42bf843c0d12d1414acc33/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/3a42a3233fc8d402040763a98d260702/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/3a42a3233fc8d402040763a98d260702/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/81d478b25afbfb61cf28ba51aa2dc62b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/81d478b25afbfb61cf28ba51aa2dc62b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/3ab533e78b73d7395420c6ec7a816a71/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/3ab533e78b73d7395420c6ec7a816a71/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/f8d81443de02e8afd12f6021fe6b387c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/f8d81443de02e8afd12f6021fe6b387c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/4da4e1bf27931fd39e3b3321fe34ff76/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/4da4e1bf27931fd39e3b3321fe34ff76/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/7f9bd867cf11731f12fcc65219350c37/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/7f9bd867cf11731f12fcc65219350c37/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/ef86ebff862fec3e695c0213a140cb28/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/ef86ebff862fec3e695c0213a140cb28/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.2.0-alpha01] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/2feafc1f6ff89ed4b7b4dfcc0cd5be9b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0-alpha01] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/2feafc1f6ff89ed4b7b4dfcc0cd5be9b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha02] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/19e11a56b7bf4e43443b3f95e9e2db67/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha02] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/19e11a56b7bf4e43443b3f95e9e2db67/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0-alpha02] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/346d45d70ec45b2fdbe00b621064bcf2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0-alpha02] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/346d45d70ec45b2fdbe00b621064bcf2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/5e4594fa4af0f16b1eef7a7b50121c9f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/5e4594fa4af0f16b1eef7a7b50121c9f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/cc4d43b160d91ead9d2fa7fb48c6fca0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/cc4d43b160d91ead9d2fa7fb48c6fca0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/d28b5cb418edfea3202a7ba9e42dca49/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/d28b5cb418edfea3202a7ba9e42dca49/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/01bfd598866bfe523f4eab30c184ad6e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/01bfd598866bfe523f4eab30c184ad6e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/4bbf4ffa644ee74545d38ed0bd9a57ea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/4bbf4ffa644ee74545d38ed0bd9a57ea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/27f961bc0a2b92e5f3524d5ca32e29fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/27f961bc0a2b92e5f3524d5ca32e29fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/ccddb17fb3dd9c9235ac9f82a435cc14/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/ccddb17fb3dd9c9235ac9f82a435cc14/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/547d8c71b467da6e0608ed65798b82b0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/547d8c71b467da6e0608ed65798b82b0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/750a1e18ab929dfdd0dcdfa2ad2488f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/750a1e18ab929dfdd0dcdfa2ad2488f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0-alpha01] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/7e3d8d35155d895fa363295df29cabb5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0-alpha01] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/7e3d8d35155d895fa363295df29cabb5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/368f5663db1394950433ec889b13dabb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/368f5663db1394950433ec889b13dabb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-alpha02] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/fa2bec76d02de04f8bfa7e2671ef9728/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-alpha02] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/fa2bec76d02de04f8bfa7e2671ef9728/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0-alpha02] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/770691c5a9c85498cb4eaf3bb48b402c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0-alpha02] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/770691c5a9c85498cb4eaf3bb48b402c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-alpha02] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/112fb3010bfd6b12fc373efb0464ce2a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-alpha02] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/112fb3010bfd6b12fc373efb0464ce2a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0-rc01] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/668ed5d02954dbde0b324653e2659b69/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0-rc01] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/668ed5d02954dbde0b324653e2659b69/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/a14fa091498f150c43f5d88e2319705e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/a14fa091498f150c43f5d88e2319705e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha02] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/a11888d1745e2417f272a1a2430606f6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha02] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/a11888d1745e2417f272a1a2430606f6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/913254817abf98c18e4fda6a22956e50/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/913254817abf98c18e4fda6a22956e50/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/c61cc3779214072191016da658bae793/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/c61cc3779214072191016da658bae793/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/a2fb7f440a92438ab03443047ad6244c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/a2fb7f440a92438ab03443047ad6244c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/dd5ca30d915a0acdda5efb027d8e2271/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/dd5ca30d915a0acdda5efb027d8e2271/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/e82056ed5ab8e8731d6d847c4c756e65/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/e82056ed5ab8e8731d6d847c4c756e65/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/4cc3e6a11edfdbc276d203159b4699ba/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/4cc3e6a11edfdbc276d203159b4699ba/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhensuy/Downloads/Hello-Uber/Android/app/src/main/AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha02] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/19e11a56b7bf4e43443b3f95e9e2db67/AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha02] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/19e11a56b7bf4e43443b3f95e9e2db67/AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha02] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/19e11a56b7bf4e43443b3f95e9e2db67/AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha02] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/19e11a56b7bf4e43443b3f95e9e2db67/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha02] /Users/zhensuy/.gradle/caches/transforms-2/files-2.1/19e11a56b7bf4e43443b3f95e9e2db67/AndroidManifest.xml:26:13-79
